@@ -1,7 +1,6 @@
 {
   "name": "leaflet-react",
   "version": "0.1.0",
-  "homepage": "https://Lahali.github.io/proyecto_react",
   "private": true,
   "dependencies": {
     "@cloudinary/react": "^1.5.0",
